@@ -1,0 +1,17 @@
+
+.container{
+    display: flex;
+    border-radius: 2%;
+    border-color: rgb(49, 49, 49);
+    padding: 1%;
+    margin: auto;
+    background-color: rgb(8, 193, 199);
+    border-color: black;
+    justify-content: center;
+
+}
+.carta{
+
+    border-color: black;
+    
+}
