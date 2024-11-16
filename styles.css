@@ -1,17 +1,24 @@
 
 .container{
     display: flex;
-    border-radius: 2%;
-    border-color: rgb(49, 49, 49);
-    padding: 1%;
-    margin: auto;
-    background-color: rgb(8, 193, 199);
-    border-color: black;
+    border-radius: 4%;
+    border-color: rgb(36, 34, 34);
+    padding: 40%;
+    margin: 10%;
+    background-color: rgb(242, 245, 245);
+    border-color: rgb(0, 0, 0);
     justify-content: center;
+}
+
+.pica{
+    justify-content: left;
+}
+
+.mitad{
+    background-color: rgb(241, 241, 241)
+
 
 }
-.carta{
-
-    border-color: black;
-    
+.abajo{
+    justify-content: end;
 }
